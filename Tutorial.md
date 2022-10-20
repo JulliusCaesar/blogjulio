@@ -12,6 +12,8 @@ Temos 3 formas de quebrar linha:
 - Usando o \<br\>
 - Deixar dois espaços no final da linha (Não é recomendado)
 
+PS: Linhas em branco mudam o contexto. Quando não queremos o contexto, usamos o \<br\>
+
 # Blocos de citação/Comentário
 
 Posso fazer um bloco de citação/comentário iniciando a linha por >
