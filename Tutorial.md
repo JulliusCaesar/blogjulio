@@ -118,3 +118,19 @@ Podemos criar links da seguinte forma:
 Exemplo:
 
 [Link do Google](https://www.google.com.br)
+
+# Tecla de Escape
+
+Podemos usar a tecla de escape (\\) para "Ignorar o poder" de um caractere.
+
+Exemplo, o underline faz virar itálico, então \__Teste_\_ fica em itálico.
+
+Porém, se eu digitar \\\_Teste\\\_ ele não fica, pois a \\ 'ignorou o poder' do underline.
+
+Dessa forma:
+
+\\\_sem underline\\\_
+
+Exemplo:
+
+\_Sem Underline\_
