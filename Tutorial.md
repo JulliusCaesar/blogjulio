@@ -19,3 +19,18 @@ PS: Linhas em branco mudam o contexto. Quando não queremos o contexto, usamos o
 Posso fazer um bloco de citação/comentário iniciando a linha por >
 
 > Isso é um exemplo
+
+# Sub-Títulos
+Eu posso colocar mais de uma hashtag no inicio da linha.<br>
+A cada # a mais que eu coloco ela vai virando um sub-titulo<br>
+Se eu colocar ## -> Subtitulo (h2)<br>
+Se eu colocar ### -> Subsubtitulo (h3)
+
+# Imagens
+
+Para imagens eu faço o seguinte:
+
+\![descrição da imagem](link da imagem)
+
+EX:
+![Logo da ByLearn](https://i.imgur.com/NWsIvL4.png)
