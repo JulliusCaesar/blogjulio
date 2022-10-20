@@ -134,3 +134,18 @@ Dessa forma:
 Exemplo:
 
 \_Sem Underline\_
+
+
+## Pull request para aprender
+
+https://github.com/topics/hacktoberfest
+
+https://www.codetriage.com/
+
+http://issuehub.io/
+
+http://www.pullrequestroulette.com/
+
+https://gauger.io/contrib/
+
+https://fixme.ossn.club/
