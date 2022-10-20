@@ -34,3 +34,87 @@ Para imagens eu faço o seguinte:
 
 EX:
 ![Logo da ByLearn](https://i.imgur.com/NWsIvL4.png)
+
+# Negrito e Italico
+
+Podemos colocar em negrito através do duplo asterisco \*\***Dessa forma**\*\*
+
+Podemos também fazer com o italico usando o underline \__Dessa Forma_\_
+
+Posso também combinar ambos: \*\***Por exemplo, \__dessa forma_\_ aqui!**\*\*
+
+**Exemplo Negrito**
+
+_Exemplo Itálico_
+
+**Exemplos _ambos_**
+
+Podemos fazer listas colocando um traço na terceira linha (-)
+
+Podemos dar um TAB no inicio da linha, antes do traço, para colcoar sub itens
+
+Dessa forma:
+- \- Item
+  - \- Sub Item
+- \- Item
+
+Exemplo:
+- Doces
+  - Bala
+  - Pirulito
+  - Chiclete
+- Frutas
+  - Maça
+  - Banana
+  - Uva
+
+# Códigos de programação
+
+Nós criamos uma linha com 3 crases e o nome da linguagem de programação na frente: <br>
+\`\`\` python
+
+Em seguida, colocamos todo nosso código.
+
+Por fim, criamos outra linha com apenas 3 crases: <br>
+\`\`\`
+
+Dessa forma:
+
+\`\`\` python<br>
+ ~ Meu codigo aqui ~<br>
+\`\`\`<br>
+
+Como exemplo:
+
+``` python
+numero1 = 10
+numero2 = 20
+
+soma = numero1 + numero2
+print(soma)
+
+```
+
+# Quebra de seção (Linha Horizontal)
+
+Podemos inserir uma linha horizontal criando uma nova linha e colocando apenas 3 traços (simbolo de menos)
+
+Dessa forma:
+\-\-\-
+
+Exemplo:
+---
+
+---
+
+---
+
+# Links
+
+Podemos criar links da seguinte forma:
+
+\[Texto do Link](meu link)
+
+Exemplo:
+
+[Link do Google](https://www.google.com.br)
